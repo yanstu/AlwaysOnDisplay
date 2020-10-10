@@ -1,0 +1,5 @@
+<resources>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="app_name">不要息屏</string>
+</resources>
